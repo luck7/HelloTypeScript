@@ -1,0 +1,1 @@
+import { Animal } from "./shared-types";
